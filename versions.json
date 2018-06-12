@@ -1,50 +1,64 @@
 {
-  "latest": {
-    "path": "latest",
-    "name": "latest",
-    "sha": "4136850772b9aafd3b381014b2a5b36e67b9e6c8",
-    "tag": "v0.4.2"
-  },
   "master": {
-    "path": "master",
+    "path": "versions/master",
     "name": "master",
     "sha": "b32175798e467b7a974adaff2ab1eca682218dab",
-    "tag": null
+    "tag": null,
+    "oldPath": "master"
   },
   "v0.2.0": {
     "sha": "c205237d508e13e1df30e7cc0d43194214b48a2d",
     "tag": "v0.2.0",
-    "path": "v0.2.0",
-    "name": "v0.2.0"
+    "path": "versions/v0.2.0",
+    "name": "v0.2.0",
+    "oldPath": "v0.2.0"
   },
   "v0.2.3": {
     "sha": "d752437850bc9833ea3e354095b501473b0420ae",
     "tag": "v0.2.3",
-    "path": "v0.2.3",
-    "name": "v0.2.3"
+    "path": "versions/v0.2.3",
+    "name": "v0.2.3",
+    "oldPath": "v0.2.3"
   },
   "v0.2.4": {
     "sha": "29d6b9f412fa433f406fcadfedb69554bfaf18ef",
     "tag": "v0.2.4",
-    "path": "v0.2.4",
-    "name": "v0.2.4"
+    "path": "versions/v0.2.4",
+    "name": "v0.2.4",
+    "oldPath": "v0.2.4"
   },
   "v0.3.0": {
     "sha": "53b73465d31925f26fd1f77881aefcaccce2915a",
     "tag": "v0.3.0",
-    "path": "v0.3.0",
-    "name": "v0.3.0"
+    "path": "versions/v0.3.0",
+    "name": "v0.3.0",
+    "oldPath": "v0.3.0"
   },
   "v0.4.1": {
     "sha": "17b5d3439f948c9877c2419cfe6a90bfcef17717",
     "tag": "v0.4.1",
-    "path": "v0.4.1",
-    "name": "v0.4.1"
+    "path": "versions/v0.4.1",
+    "name": "v0.4.1",
+    "oldPath": "v0.4.1"
   },
   "v0.4.2": {
-    "path": "v0.4.2",
+    "path": "versions/v0.4.2",
     "name": "v0.4.2",
     "sha": "4136850772b9aafd3b381014b2a5b36e67b9e6c8",
-    "tag": "v0.4.2"
+    "tag": "v0.4.2",
+    "oldPath": "v0.4.2"
+  },
+  "-latest": {
+    "path": "",
+    "name": "-latest",
+    "sha": "4136850772b9aafd3b381014b2a5b36e67b9e6c8",
+    "tag": "v0.4.2",
+    "oldPath": "latest"
+  },
+  "auto-migrate": {
+    "path": "versions/auto-migrate",
+    "name": "auto-migrate",
+    "sha": "b50916f436d74138c127e82fa2fdd3605366a53d",
+    "tag": null
   }
 }
